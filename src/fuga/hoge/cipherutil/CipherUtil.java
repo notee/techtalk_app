@@ -6,7 +6,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class CipherUtil {
 
-    private static String _KEY = "ThisIsNotKeyButK";
+    private static String _KEY = "WhatWeWantToKnow";
 
     private static String _ALGORITHM = "AES";
     private static String _MODE = "CBC";
